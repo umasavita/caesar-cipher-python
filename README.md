@@ -15,3 +15,13 @@ This project implements the Caesar Cipher algorithm for encrypting and decryptin
 
 ## ▶️ How to Run
 python caesar_cipher.py
+
+
+## 📸 Output Example
+Input: hello  
+Shift: 3  
+Output: khoor
+
+## 📚 Learning
+- Basic cryptography concept
+- ASCII manipulation
